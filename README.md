@@ -1,2 +1,2 @@
 # UDP2TCP
-Udp to Tcp proxy
+UDP to TCP proxy
